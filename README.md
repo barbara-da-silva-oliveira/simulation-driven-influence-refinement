@@ -25,7 +25,7 @@ Influences identified in the sign-following robot case study include:
 - Sign Detection Quality, Average Speed, and Controller Gain influencing Tracking Error.
 - Ambient lighting and Blob Size influencing Sign Detection Quality.
 
-<img width="872" height="352" alt="influencesSignFollow(2)" src="https://github.com/user-attachments/assets/be5ecf37-c055-496b-b029-787bd3c2fbe4" />
+<img width="803" height="575" alt="Screenshot from 2026-03-24 17-34-20" src="https://github.com/user-attachments/assets/6cd16e2a-a7be-41a2-9953-3c1d3a9fac75" />
 
 
 ### Structural Refinement
@@ -66,7 +66,7 @@ The case study uses a sign-following mobile robot implemented with:
 - ROS communication between Simulink and Gazebo.
 - Simulation campaigns to explore environmental and design parameter variations.
 
-<img width="803" height="575" alt="screenshot" src="https://github.com/user-attachments/assets/764f0084-9f98-4358-8867-608cbbebeecf" />
+<img width="1163" height="469" alt="influencesSignFollow(3)" src="https://github.com/user-attachments/assets/82c8a2bb-7a02-40df-b608-3d0668e68ec6" />
 
 
 The robot must detect directional signs, follow a path, and stop at the final sign. From simulation traces, we have extracted SRPs such as:
