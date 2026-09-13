@@ -256,7 +256,7 @@ The generated outputs are written to the functional campaign results folder defi
 Run the script to produce analyses files of the functional refinement for each influence, including motonocity tables in format csv, functional regression results.
 
 ```python
-functionalCampaignAnalyzer.py
+python3 main.py
 ```
 
 ## Data Validity
